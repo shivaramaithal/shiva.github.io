@@ -1,0 +1,23 @@
+.headi {
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+    
+
+}
+
+.intro {
+    
+    align-items: center;
+    
+}
+
+.abc {
+    background-color: aquamarine;
+    font-size: medium;
+}
+.shiv {
+    background-color: aquamarine;
+}
